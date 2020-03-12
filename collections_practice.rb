@@ -19,8 +19,9 @@ def reverse_array(integer)
   integer.reverse
 end
 
-def kesha_maker(symbol)
-  symbol = []
+def kesha_maker(kesha)
+   symbol = []
+   kesha.each do ||
 end
 
 def find_a(array)
