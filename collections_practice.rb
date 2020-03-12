@@ -21,7 +21,7 @@ end
 
 def kesha_maker(kesha)
    kesha.each do |symbol| 
-     symbol[2] = $
+     symbol[2] = "$"
    end
    symbol
 end
