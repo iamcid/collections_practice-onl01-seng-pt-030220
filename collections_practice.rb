@@ -15,8 +15,8 @@ def swap_elements(el)
   el
 end
 
-def reverse_array
-  
+def reverse_array(integer)
+  integer.reverse
 end
 
 def kesha_maker
