@@ -23,7 +23,8 @@ def kesha_maker
 
 end
 
-def find_a
+def find_a(a)
+  a.
   
 end
 
