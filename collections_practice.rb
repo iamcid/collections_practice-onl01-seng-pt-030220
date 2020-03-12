@@ -38,6 +38,6 @@ def add_s(word)
     if index[1]
       string
     else
-      string 
-  
+      string << "s"
+    end
 end
