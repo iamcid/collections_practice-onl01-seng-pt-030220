@@ -22,6 +22,7 @@ end
 def kesha_maker(kesha)
    kesha.map do |symbol| symbol[2] = "$"
    symbol
+   end
 end
 
 def find_a(array)
