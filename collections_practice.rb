@@ -23,8 +23,8 @@ def kesha_maker
 
 end
 
-def find_a(a)
-  a.select { |name| name.starts_with?("a") }
+def find_a(find)
+  find.select { |name| name.starts_with? ("a") }
 end
 
 def sum_array
