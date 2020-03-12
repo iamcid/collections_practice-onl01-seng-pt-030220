@@ -20,9 +20,7 @@ def reverse_array(integer)
 end
 
 def kesha_maker(kesha)
-   kesha.each do |symbol| 
-     symbol[2] = "$"
-   end
+   kesha.each do |symbol| symbol[2] = "$"
    symbol
 end
 
