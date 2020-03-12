@@ -21,7 +21,7 @@ end
 
 def kesha_maker(kesha)
   array = []
-  
+  kesha.each do |
 
 end
 
