@@ -19,7 +19,8 @@ def reverse_array(integer)
   integer.reverse
 end
 
-def kesha_maker
+def kesha_maker(kesha)
+  
 
 end
 
