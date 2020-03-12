@@ -3,10 +3,10 @@ def sort_array_asc(integer)
 end
 
 def sort_array_desc(integer)
-  integer.sort { |first_integer, second_integer|  }
+  integer.sort { |first_integer, second_integer| first_integer <=> second_integer }
 end
 
-def sort_array_char_count
+def sort_array_char_count(character)
 
 end
 
