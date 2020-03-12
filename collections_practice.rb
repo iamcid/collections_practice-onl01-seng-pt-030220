@@ -3,7 +3,7 @@ def sort_array_asc(integer)
 end
 
 def sort_array_desc(integer)
-  integer.sort { |first_intger, second_intger| first_intger > second_integer }
+  integer.sort { |first_intger, second_intger| "first_intger" > "second_integer" }
 end
 
 def sort_array_char_count
