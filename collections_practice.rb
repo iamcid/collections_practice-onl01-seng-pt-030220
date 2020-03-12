@@ -33,6 +33,6 @@ def sum_array(integers)
   integers.inject { |sum, num| sum + num }
 end
 
-def add_s
+def add_s(word)
   
 end
