@@ -20,8 +20,7 @@ def reverse_array(integer)
 end
 
 def kesha_maker(kesha)
-   symbol = []
-   kesha.each do ||
+   kesha.each do |symbol|
 end
 
 def find_a(array)
