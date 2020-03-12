@@ -34,6 +34,8 @@ def sum_array(integers)
 end
 
 def add_s(word)
-  word.each_with_index.collect do { |words, index|
+  word.each_with_index.collect do |words, index|
+    if index[1]
+      
   
 end
