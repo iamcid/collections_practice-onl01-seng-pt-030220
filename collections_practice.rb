@@ -24,7 +24,7 @@ def kesha_maker
 end
 
 def find_a(a)
-  a.select { 
+  a.select { |name| name.starts_with?
   
 end
 
