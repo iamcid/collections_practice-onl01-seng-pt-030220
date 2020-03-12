@@ -21,7 +21,8 @@ end
 
 def kesha_maker(kesha)
   array = []
-  kesha.each do |
+  kesha.each do |symbol|
+    symbol
 
 end
 
