@@ -7,7 +7,7 @@ def sort_array_desc(integer)
 end
 
 def sort_array_char_count(character)
-  character.sort { |asc, desc| desc.length <=> asc.length }
+  character.sort { |asc, desc| asc.length <=> desc.length }
 end
 
 def swap_elements
