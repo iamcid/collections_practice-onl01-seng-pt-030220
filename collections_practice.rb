@@ -30,7 +30,7 @@ def find_a(array)
 end
 
 def sum_array(integers)
-  integers.each do 
+  integers.inject { |sum, num| sum + num
 
 end
 
